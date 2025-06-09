@@ -60,10 +60,10 @@
 
 | 平台 | 架构 | 下载链接 | 文件大小 | 说明 |
 |------|------|----------|----------|------|
-| 🪟 Windows | x64 | [FreeAugmentCode-Windows.exe](../../releases/latest/download/FreeAugmentCode-Windows.exe) | ~15MB | Intel/AMD 64位 |
-| 🍎 macOS | Universal2 | [FreeAugmentCode-macOS](../../releases/latest/download/FreeAugmentCode-macOS) | ~15MB | Intel + Apple Silicon |
-| 🐧 Linux | x64 | [FreeAugmentCode-Linux-x64](../../releases/latest/download/FreeAugmentCode-Linux-x64) | ~15MB | Intel/AMD 64位 |
-| 🐧 Linux | ARM64 | [FreeAugmentCode-Linux-ARM64](../../releases/latest/download/FreeAugmentCode-Linux-ARM64) | ~15MB | ARM 64位 (树莓派等) |
+| 🪟 Windows | x64 | [FreeAugmentCode-Windows.exe](https://github.com/xn030523/augment-ferr/releases) | ~15MB | Intel/AMD 64位 |
+| 🍎 macOS | Universal2 | [FreeAugmentCode-macOS](https://github.com/xn030523/augment-ferr/releases) | ~15MB | Intel + Apple Silicon |
+| 🐧 Linux | x64 | [FreeAugmentCode-Linux-x64](https://github.com/xn030523/augment-ferr/releases) | ~15MB | Intel/AMD 64位 |
+| 🐧 Linux | ARM64 | [FreeAugmentCode-Linux-ARM64](https://github.com/xn030523/augment-ferr/releases) | ~15MB | ARM 64位 (树莓派等) |
 
 ### 🛠️ 使用说明
 
