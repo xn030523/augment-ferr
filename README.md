@@ -273,6 +273,37 @@ ls -la FreeAugmentCode-macOS
 
 </div>
 
+
+---
+
+## 📞 获取帮助
+
+### 🔧 **技术支持渠道：**
+
+#### 💬 **QQ 技术交流群**
+- **群名称：** Windsuf/cursor/Augment/Deepseek/
+- **群号：** 1017212982
+- **加群链接：** https://qm.qq.com/q/YCGNTH3Ik4
+
+#### 🌐 **其他支持方式：**
+
+1. **查看常见问题** - 本文档的故障排除部分
+2. **检查系统要求** - 确保满足运行条件
+3. **提交 Issue** - 在 GitHub 仓库中报告问题
+4. **提供详细信息** - 包括系统版本、错误信息等
+
+### 💡 **在群内可以获得：**
+- ✅ **实时技术支持** - 快速解决使用问题
+- ✅ **经验分享** - 其他用户的使用心得
+- ✅ **最新动态** - 工具更新和新功能预告
+- ✅ **多工具交流** - Cursor、Augment、Deepseek 等工具讨论
+
+---
+
+## ⚖️ 免责声明
+
+本工具仅供学习和研究使用，请遵守相关服务条款和法律法规。使用本工具所产生的任何后果由用户自行承担。
+
 ---
 
 <div align="center">
@@ -283,7 +314,8 @@ ls -la FreeAugmentCode-macOS
   <a href="https://github.com/xn030523/free-Augment/issues">🐛 报告问题</a> •
   <a href="https://github.com/xn030523/free-Augment/discussions">💬 讨论</a> •
   <a href="mailto:w3586177963@gmail.com">📧 联系我们</a> •
-  <a href="https://184772.xyz/" target="_blank">📮 临时邮箱</a>
+  <a href="https://184772.xyz/" target="_blank">📮 临时邮箱</a>•
+  <a href="https://qm.qq.com/q/YCGNTH3Ik4" target="_blank">💬 QQ群</a>
 </p>
 
 </div>
