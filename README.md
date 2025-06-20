@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🚀 Free Augment Code
+idea无感换号地址 https://github.com/xn030523/augment-token-idea-free.git
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-Extension-blue?style=for-the-badge&logo=visual-studio-code" alt="VS Code Extension">
